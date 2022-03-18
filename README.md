@@ -1,6 +1,6 @@
 # BMICalculator
 
-A GUI based BMI calculator created during my C# class in college
+A GUI based BMI calculator created during my .Net programming class in college
 
 ### Tech Stack
 * C#
