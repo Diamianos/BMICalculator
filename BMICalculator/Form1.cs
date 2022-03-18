@@ -76,7 +76,8 @@ namespace Ch14Lab3
             txtHeight.Clear();
             txtHeight.Focus();
             txtWeight.Clear();
-            lblResult.Text = "";        
+            lblResult.Text = "";   
+            
         }
 
         private void btnExit_Click(object sender, EventArgs e)
